@@ -58,5 +58,8 @@ Developed by: RegisterNumber:212224220113
 
 ![de ex11](https://github.com/user-attachments/assets/5844fa8d-9f00-4dc1-a586-5d8a9ee67836)
 
+**Truth Table**
+![image](https://github.com/user-attachments/assets/ecbdceb0-ea04-44c0-b758-2a645d1d8b37)
 
 **RESULTS**
+Hence a 4 bit synchronous up counter is implemented correctlyHence a 4 bit synchronous up counter is implemented correctly
